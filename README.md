@@ -22,7 +22,7 @@ I’m a full stack web developer who loves creating modern, responsive websites 
 
 ## About Me 😊
 - 👀 I’m interested in full stack web development and learning new technologies.
-- 🌱 I’m currently learning more about FastAPI, databases, and Next.js.
+- 🌱 I’m currently learning more about backend and databases.
 - 📫 How to reach me: [umarbellokawa@gmail.com](mailto:umarbellokawa@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new tech, and I’m always improving my coding skills!
