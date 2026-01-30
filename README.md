@@ -11,13 +11,14 @@ I’m a full stack web developer who loves creating modern and responsive websit
 - **React**: Making dynamic and interactive UIs.
 - **Next.js**: Server-side rendering and static sites.
 - **I18next**: Adding multi-language support in React apps.
-- **Material UI**: Designing clean and accessible interfaces.
+- **React Material UI**: Designing clean and accessible interfaces.
 - **Redux**: Managing global state in apps.
+- **React Query**: Efficiently fetching, caching, and synchronizing server state.
 
 ### Back-End Development 🔧
 - **Python**: Writing efficient and clean code.
 - **FastAPI**: Creating fast APIs for web apps.
-- **SQL**: Working with databases.
+- **Postgrel SQL**: Working with databases.
 - **Sqlmodel**: Connecting Python with databases easily.
 
 ## About Me 😊
