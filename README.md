@@ -18,15 +18,32 @@ I’m a full stack web developer who loves creating modern and responsive websit
 ### Back-End Development 🔧
 - **Python**: Writing efficient and clean code.
 - **FastAPI**: Creating fast APIs for web apps.
+- **Django**: Building full-featured web applications quickly.
 - **Postgrel SQL**: Working with databases.
 - **Sqlmodel**: Connecting Python with databases easily.
+- **Supabase**: Using backend-as-a-service for authentication, storage, and database management.
+
+### AI & Data
+- **OpenAI / LLM APIs / Google GenAI**: Direct interaction with models if you’re using GPT or other LLMs.
+- **Vector Databases**: Supabase Vector DB, For semantic search or embedding retrieva.
+- **LangChain**: Building AI agents and applications with LLMs.
+
+### Cloud & DevOps
+- **Docker**: Containerizing apps for development and production.
+- **CI/CD tools**: GitHub Actions, GitLab CI, or CircleCI for automated deployment.
+- **Google Cloud**: Deploying, scaling, and managing applications in the cloud.
+
+### Collaboration & Productivity
+- **Version control**: Git / GitHub.
+- **Project management**: Notion, or Trello.
+- **API documentation**: Swagger / Django REST APIs.
 
 ## About Me 😊
-- 👀 I’m interested in full stack web development and learning new technologies.
-- 🌱 I’m currently learning more about backend and databases.
+- 👀 I’m passionate about building innovative technology and AI-powered products.
+- 🚀 I’m also deeply interested in startup entrepreneurship and creating solutions that can have a global impact.
 - 📫 How to reach me: [umarbellokawa@gmail.com](mailto:umarbellokawa@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love exploring new tech, and I’m always improving my coding skills!
+- ⚡ Fun fact: I love exploring cutting-edge tech and turning ideas into real products.
 
 ## Get in Touch 📲
 You can contact me at:
