@@ -24,7 +24,7 @@ I’m a full-stack developer and tech innovator passionate about building modern
 - **Supabase**: Using backend-as-a-service for authentication, storage, and database management.
 
 ### AI & Data
-- **OpenAI / LLM APIs / Google GenAI**: Direct interaction with models if you’re using GPT or other LLMs.
+- **OpenAI / LLM APIs / Google GenAI**: Direct interaction with large language models.
 - **Vector Databases**: Supabase Vector DB, For semantic search or embedding retrieva.
 - **LangChain**: Building AI agents and applications with LLMs.
 
