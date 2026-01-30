@@ -2,7 +2,7 @@
 # Full Stack Web Developer
 
 Hi, I’m @UmarBelloKanwa 👋  
-I’m a full stack web developer who loves creating modern and responsive websites. Here’s a quick look at what I can do.
+I’m a full-stack developer and tech innovator passionate about building modern, scalable, and AI-powered applications. I specialize in turning complex ideas into high-performance products that solve real problems and create impact. Here’s a snapshot of what I can build.
 
 ## Skills 💻
 
