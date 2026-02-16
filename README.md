@@ -41,7 +41,7 @@ I’m a full-stack developer and tech innovator passionate about building modern
 ## About Me 😊
 - 👀 I’m passionate about building innovative technology and AI-powered products.
 - 🚀 I’m also deeply interested in startup entrepreneurship and creating solutions that can have a global impact.
-- 📫 How to reach me: [umarbellokawa@gmail.com](mailto:umarbellokawa@gmail.com)
+- 📫 How to reach me: [umarbellokanwa@gmail.com](mailto:umarbellokanwa@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring cutting-edge tech and turning ideas into real products.
 
